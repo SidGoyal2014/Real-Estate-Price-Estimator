@@ -1,0 +1,3 @@
+The data in this folder is a refined, analylised, free from missing values & approx. all anomalities.
+
+But the scope of improvement is still there. Many improvements can be made like nomalisation, feature engineering, etc.
